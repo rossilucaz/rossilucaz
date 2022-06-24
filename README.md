@@ -33,4 +33,4 @@
 <a href="mailto:apds.lucasdallagnolr@gmail.com"><img alt="E-mail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/drossilucas/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
-![Snake animation](https://github.com/rossiedu/lucasrossi/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/rossilucaz/rossilucaz/blob/output/github-contribution-grid-snake.svg)
