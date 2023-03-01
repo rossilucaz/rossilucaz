@@ -1,7 +1,7 @@
 ## Hi, I'm Lucas Rossi!
 
 ##  🖌 About me
-- 👨‍💻 I'm a developer studying systems information.
+- 👨‍💻 I'm studying information systems.
 - 📈 Dados enthusiast.
 - 🤖 My goal is to improve in machine learning.
 - 🧠 I'm always looking to learn more about technology.
