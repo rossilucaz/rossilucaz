@@ -9,17 +9,27 @@
 ## 🎨 How I do:
 
 <a href="https://github.com/rossilucaz/github-readme-stats">
-  <img align="center" height ="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rossilucaz&count_private=true&layout=compact&theme=codeSTACKr" />
+  <img align="center" height ="150em" 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=rossilucaz&count_private=true&layout=compact&theme=codeSTACKr" />
 </a>
-<a href="https://github.com/rossiedu/convoychat">
+<a href="https://github.com/rossilucas/convoychat">
   <img align="center" height ="150em" src="https://github-readme-stats.vercel.app/api?username=rossilucaz&count_private=true&theme=codeSTACKr" />
 </a>
+
 <div style="display: inline_block"><br>
 <a href="https://github.com/rossilucaz/github-readme-stats">
-  <img align="center" alt="Python" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img align="center" alt="Mysql" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Anaconda" height="50" width="50" src="https://img.icons8.com/fluency/48/undefined/microsoft-excel-2019.png">
-  <img align="center" alt="Java" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+  
+  <img align="center" alt="Python" height="50" width="50" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+
+<img align="center" alt="Mysql" height="50" width="50" s
+  rc="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+ 
+ <img align="center" alt="Anaconda" height="50" width="50"
+  src="https://img.icons8.com/fluency/48/undefined/microsoft-excel-2019.png">
+ 
+ <img align="center" alt="Java" height="50" width="50" 
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
  
 </a>
  
