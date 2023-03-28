@@ -10,7 +10,7 @@
 
 <a href="https://github.com/rossilucaz/github-readme-stats">
   <img align="center" height ="150em" 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=rossilucaz&count_private=true&layout=compact&theme=codeSTACKr" />
+  src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rossilucaz&count_private=true&layout=compact&theme=codeSTACKr" />
 </a>
 <a href="https://github.com/rossilucas/convoychat">
   <img align="center" height ="150em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=rossilucaz&count_private=true&theme=codeSTACKr" />
