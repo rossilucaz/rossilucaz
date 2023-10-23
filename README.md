@@ -3,7 +3,6 @@
 ##  🖌 About me
 - 👨‍💻 I'm studying information systems.
 - 📈 Dados enthusiast.
-- 🤖 My goal is to improve in machine learning.
 - 🧠 I'm always looking to learn more about technology.
 
 ## 🎨 How I do:
