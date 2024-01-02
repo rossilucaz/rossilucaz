@@ -19,6 +19,7 @@
 <a href="https://github.com/rossilucaz/github-readme-stats">
   <img align="center" alt="Python" height="50" width="50" 
   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+</a>
 <img align="center" alt="Mysql" height="50" width="50" s
   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
  
