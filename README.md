@@ -18,6 +18,7 @@
 </a>
 
 <div style="display: inline_block"><br>
+  
 <a href="https://github.com/rossilucaz/github-readme-stats">
   <img align="center" alt="Python" height="75" width="50" 
   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
