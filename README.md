@@ -9,7 +9,7 @@
 
 <a href="https://github.com/rossilucaz/github-readme-stats">
   
-  <img align="center" height ="160em" 
+  <img align="center" height ="200em" 
   src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rossilucaz&count_private=true&layout=compact&theme=codeSTACKr" />
 
 </a>
