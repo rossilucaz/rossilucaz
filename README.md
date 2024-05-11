@@ -2,7 +2,7 @@
 
 ##  🖌 About me
 - 👨‍💻 I'm studying information systems.
-- 📈 Dados enthusiast.
+- 📈 Data enthusiast.
 - 🧠 I'm always looking to learn more about technology.
 
 ## 🎨 How I do:
