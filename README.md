@@ -1,6 +1,7 @@
 ## Hi, I'm Lucas Rossi!
 
 ##  🖌 About me
+- 🎲 I'm Data Analyst
 - 👨‍💻 I'm studying information systems.
 - 📈 Data enthusiast.
 - 🧠 I'm always looking to learn more about technology.
